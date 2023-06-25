@@ -6,8 +6,8 @@ public class Main {
 //        Map<String, Person> peopleMap = new LinkedHashMap<>();
 //        String[] people = scanner.nextLine().split(";");
 //        String[] products = scanner.nextLine().split(";");
-//        for (String person : people) {
-//            String[] tokens = person.split("=");
+//        for (String Inheritance.Exercise.person : people) {
+//            String[] tokens = Inheritance.Exercise.person.split("=");
 //            String name = tokens[0];
 //            double money = Double.parseDouble(tokens[1]);
 //            Person currentPerson = new Person(name,money);
@@ -35,8 +35,8 @@ public class Main {
 //            }
 //            command = scanner.nextLine();
 //        }
-//        for (Map.Entry<String, Person> person : peopleMap.entrySet()) {
-//            System.out.println(person.getValue());
+//        for (Map.Entry<String, Person> Inheritance.Exercise.person : peopleMap.entrySet()) {
+//            System.out.println(Inheritance.Exercise.person.getValue());
 //        }
     }
 }

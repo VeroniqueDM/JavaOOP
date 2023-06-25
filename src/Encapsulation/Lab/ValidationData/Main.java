@@ -16,9 +16,9 @@ public class Main {
             people.add(new Person(input[0], input[1], Integer.parseInt(input[2]), Double.parseDouble(input[3])));
         }
 //        double bonus = Double.parseDouble(reader.readLine());
-//        for (Person person : people) {
-//            person.increaseSalary(bonus);
-//            System.out.println(person.toString());
+//        for (Person Inheritance.Exercise.person : people) {
+//            Inheritance.Exercise.person.increaseSalary(bonus);
+//            System.out.println(Inheritance.Exercise.person.toString());
 //        }
         Team team = new Team("Black Eagles");
         for (Person person : people) {
