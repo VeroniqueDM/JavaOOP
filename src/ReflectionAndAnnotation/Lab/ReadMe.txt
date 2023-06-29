@@ -1,0 +1,1 @@
+Solutions exercise 2 & 3 do not pass all tests
