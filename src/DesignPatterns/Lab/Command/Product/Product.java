@@ -1,4 +1,4 @@
-package DesignPatterns.Command;
+package DesignPatterns.Lab.Command.Product;
 
 public class Product {
     private String name;
